@@ -1,0 +1,27 @@
+{
+  "name": "React-master",
+  "version": "1.0.0",
+  "description": "A React.js project",
+  "author": "Alfred<alfredshen89@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "node build/dev-server.js"
+  },
+  "dependencies": {
+    "react": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "eventsource-polyfill": "^0.9.6",
+    "friendly-errors-webpack-plugin": "^1.6.1",
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^2.3.3",
+    "webpack-bundle-analyzer": "^2.2.1",
+    "webpack-dev-middleware": "^1.10.0",
+    "webpack-hot-middleware": "^2.18.0",
+    "webpack-merge": "^4.1.0"
+  }
+}
